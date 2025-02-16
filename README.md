@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 This project presents a comprehensive Coffee Sales Dashboard created in Excel. The dashboard provides insights into sales performance across different countries, customers, product sizes, and time periods.
 
-![Dashboard Preview](Dashboard Preview\Coffee Dashboard.png)
+![Dashboard Preview](https://github.com/eshitakundu/Coffee-Sales-Dashboard/blob/main/Dashboard%20Preview/Coffee%20Dashboard.png)
 
 ## 🎯 Key Features
 - **Interactive Dashboard**: Pivot tables, slicers, and timelines for real-time analysis.
